@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+    height: 100px;
+    border: solid 1px black;
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+
+.box .box-item {
+    background-color: green;
+    border: solid 1px white;
+    color: white;
+}
